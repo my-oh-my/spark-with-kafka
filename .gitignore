@@ -1,0 +1,11 @@
+# IntelliJ IDEA project configuration
+.idea/
+.bsp/
+*.iml
+*.versionsBackup
+
+# Java build files
+target/
+project/project/
+
+derby.log
